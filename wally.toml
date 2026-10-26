@@ -1,0 +1,19 @@
+[package]
+name = "whotookazimus/ragdoll-service"
+description = "High quality roblox ragdoll module for all rig types."
+version = "2.1.0"
+license = "MIT"
+authors = ["Brawldude2"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/Brawldude2/RagdollService"
+exclude = ["*"]
+include = [
+	"src",
+	"src/**/*",
+	"wally.toml",
+	"LICENSE",
+	"default.project.json",
+]
+
+[dependencies]

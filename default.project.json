@@ -1,11 +1,6 @@
 {
-  "name": "project",
+  "name": "RagdollService",
   "tree": {
-    "$className": "DataModel",
-    "ReplicatedStorage": {
-      "RagdollService": {
-        "$path": "src"
-      }
-    }
+    "$path": "src"
   }
 }
