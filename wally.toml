@@ -1,7 +1,7 @@
 [package]
 name = "whotookazimus/ragdoll-service"
 description = "High quality roblox ragdoll module for all rig types."
-version = "2.1.0"
+version = "2.1.1"
 license = "MIT"
 authors = ["Brawldude2"]
 realm = "shared"
